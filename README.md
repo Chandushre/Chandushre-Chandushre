@@ -29,7 +29,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Chandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandushre&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=Chandushre&show_icons=true)
 
 ---
 
