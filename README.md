@@ -2,7 +2,7 @@
 
 # Hi, I'm Chandu 👋
 
-🎓 CSE Student (4th Semester)  
+🎓 CSE Student (6th Semester)  
 💻 Interested in Full Stack Development & DSA  
 🚀 Building real-world web applications  
 📍 India  
