@@ -10,26 +10,26 @@
 ---
 
 ## 🚀 Tech Stack
-      - C Programming
-      - JavaScript
-      - React.js
-      - Node.js
-      - MongoDB
-      - HTML & CSS
-      - Git & GitHub
+- C Programming
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
+- HTML & CSS
+- Git & GitHub
 
 ---
 
 ## 📌 Projects
-      - 🏥 CarePath – Post-Surgery Recovery Tracking System to monitor patient recovery progress, medication schedules, and follow-up activities.
-      - 🗂 Student Activity & Task Management System (MERN)
-      - 📊 Student Performance Dashboard
-      - 🎨 UI/UX based Web Applications
+- 🏥 CarePath – Post-Surgery Recovery Tracking System to monitor patient recovery progress, medication schedules, and follow-up activities.
+- 🗂 Student Activity & Task Management System (MERN)
+- 📊 Student Performance Dashboard
+- 🎨 UI/UX based Web Applications
 
 ---
 
 ## 📈 GitHub Stats
-  ![Chandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandushre&show_icons=true)
+![Chandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandushre&show_icons=true)
 
 ---
 
